@@ -177,7 +177,6 @@ header .global-nav ul li:nth-of-type(2) {
   background: #1B1310;
   border-radius: 50px;
   font-size: 125%;
-  font-weight: bold;
   box-shadow:
   1px 1px 6px rgba(27, 16, 19, 0.4),
   -1px -1px 6px rgba(27, 16, 19, 0.4);
