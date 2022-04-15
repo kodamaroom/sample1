@@ -9,6 +9,9 @@
 html {
   font-size: 100%;
 }
+body {
+  font-family: 'Noto Serif JP', serif;
+}
 
 h1 {
   font-size: 162.5%;
