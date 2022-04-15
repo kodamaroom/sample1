@@ -169,6 +169,7 @@ header .global-nav ul li:nth-of-type(2) {
   resize: none;
 }
 #contacts button {
+  font-family: inherit;
   border: none;
   height: 60px;
   width: 235px;
